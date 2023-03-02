@@ -1,0 +1,36 @@
+*{
+    background-color: magenta;
+    color: purple;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif
+}
+h1{
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+}
+a{
+    font-size: 48px;
+}
+p{
+    text-align: center;
+    font-size: 28px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+img{
+    height: auto;
+    width: 600px;
+}
+ul li,
+ol li{
+    font-size: 25px;
+}
+ul li {
+    text-align: center;
+}
+ol li {
+    text-align: left;
+}
